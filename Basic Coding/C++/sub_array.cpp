@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+//using void printSubarray(vector<int>& arr,int n) is good
 void printSubarray(vector<int> arr , int n){
 
 
